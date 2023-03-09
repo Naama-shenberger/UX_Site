@@ -1,3 +1,0 @@
-/mobileye/Geely_UX/Geely_UX/naamash/playground/GAS2_efi4_230108_161238_3218014702 14703 0.227390899658208 right 427.074279785156 24.8754119873046 FALSE [<InterventionType.NO_INTERVENTION: 1>]
-/mobileye/Geely_UX/Geely_UX/naamash/playground/GAS2_efi4_230108_161238_3218019883 19886 5.43800510406494 left 3619.01611328125 24.3827501932779 FALSE  [<InterventionType.NO_INTERVENTION: 1>]
-#format: trackfile start_frame end_frame min_distance r_curv ego_speed lane_change interventions
